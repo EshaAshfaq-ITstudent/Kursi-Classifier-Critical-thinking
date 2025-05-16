@@ -30,16 +30,16 @@ View the classification result under the respective category.
 Click Try Another Image to reset and upload a new image.
 
 ## Technologies Used
-React
-React Dropzone
-HTML5 Canvas API
-CSS for styling
+- React
+- React Dropzone
+- HTML5 Canvas API
+- CSS for styling
 
 ## Folder Structure
-/src
-  /components
-    ImageUploader.js
-    CategoryDisplay.js
-  App.js
-  App.css
-  index.js
+- /src
+ -  /components
+   -  ImageUploader.js
+   -  CategoryDisplay.js
+ -  App.js
+ -  App.css
+ -  index.js
